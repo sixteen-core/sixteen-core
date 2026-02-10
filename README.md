@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+#I'm DANIEL GUEVARA
+Full Stack Web Apps Developer - Backend Architect Developer - UI Component designer
+
+Profile: Experienced in building complete web application systems, including databases, data modeling, backend logic, APIs, and frontend tied to user interactions. Specialized in designing fully functional and scalable applications with clean, tested code. UX/UI development driven by component-first design.
+
+Portfolio: [danielguevara.dev](https://danielguevara.dev)
+
+
+
 <!--
 **sixteen-core/sixteen-core** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
