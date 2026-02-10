@@ -7,8 +7,11 @@
 
 **Profile:** Experienced in **building complete web application systems**, including databases, data modeling, backend logic, APIs, and frontend tied to user interactions. Specialized in designing fully functional and scalable applications with **clean, tested code.** UX/UI development driven by component-first design.
 
-Portfolio: [danielguevara.dev](https://danielguevara.dev)
+Web: [danielguevara.dev](https://danielguevara.dev)
 
+Try my Last Development: Typing faster
+Game: [Boostype educational video game](https://boostype.com)
+Educational video game that teach how to type with the keyboard
 
 
 <!--
