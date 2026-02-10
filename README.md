@@ -9,8 +9,9 @@
 
 Web: [danielguevara.dev](https://danielguevara.dev)
 
-Try my Last Development: Typing faster
-Game: [Boostype educational video game](https://boostype.com)
+Try my Last Development: 
+# Typing faster
+Game: [Boostype - Typing faster ](https://boostype.com)
 Educational video game that teach how to type with the keyboard
 
 
