@@ -1,6 +1,24 @@
-## Hi there 👋
+## Hola / Hi there / Bonjour 👋 (English below spanish, français en dessous de l'anglais)
 
-# I'm DANIEL GUEVARA
+-- ESPAÑOL --
+
+# Soy DANIEL
+- Desarrollador de aplicaciones web full stack.
+- Desarrollador arquitecto backend.
+- Diseñador de componentes UI.
+
+**Perfil:** Experiencia en la **creación de sistemas completos de aplicaciones web**, incluyendo bases de datos, modelado de datos, lógica backend, API y frontend vinculado a las interacciones de los usuarios. Especializado en el diseño de aplicaciones totalmente funcionales y escalables con **código limpio y probado**. Desarrollo de UX/UI impulsado por un diseño que da prioridad a los componentes.
+
+Web: [danielguevara.dev](https://danielguevara.dev)
+
+Este es un juego que creé para aprender por mi cuenta a escribir sin mirar el teclado, de forma precisa y rápida.
+## Typing Faster
+Juego: [Escribir más rápido ](https://boostype.com)
+Video juego educativo que enseña a escribir con el teclado.
+
+-- ENGLISH --
+
+# I'm DANIEL
 - Full Stack Web Apps Developer
 - Backend Architect Developer
 - UI Component designer
@@ -9,23 +27,23 @@
 
 Web: [danielguevara.dev](https://danielguevara.dev)
 
-Try my Last Development: 
+This is a game I made to auto teach myself to write without seeying the keyboard, in an accurate and faster way.
 ## Typing faster
 Game: [Typing faster ](https://boostype.com)
-Educational video game that teach how to type with the keyboard faster
+Educational video game that teach how to type with the keyboard
 
+-- FRANÇAIS --
 
-<!--
-**sixteen-core/sixteen-core** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Je m'appelle DANIEL.
+- Développeur d'applications web full stack.
+- Développeur architecte backend.
+- Concepteur de composants UI.
 
-Here are some ideas to get you started:
+**Profil :** Expérimenté dans la **création de systèmes d'applications web complets**, y compris les bases de données, la modélisation des données, la logique backend, les API et le frontend lié aux interactions des utilisateurs. Spécialisé dans la conception d'applications entièrement fonctionnelles et évolutives avec un **code propre et testé**. Développement UX/UI basé sur une conception axée sur les composants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web : [danielguevara.dev](https://danielguevara.dev)
+
+Il s'agit d'un jeu que j'ai créé pour m'apprendre à taper sans regarder le clavier, de manière précise et plus rapide.
+## Typing Faster
+Jeu : [Typing Faster ](https://boostype.com)
+Jeu vidéo éducatif qui apprend à taper au clavier.
